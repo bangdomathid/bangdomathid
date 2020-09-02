@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-[![Profile views](https://gpvc.arturio.dev/domathid)](https://github.com/domathid)
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=domathid.domathid)](https://github.com/domathid)
-<br>
-[![Domath ID github stats](https://github-readme-stats.vercel.app/api?username=DomathID&hide=prs&count_private=true&show_icons=true&theme=vue)](https://github.com/domathid/)
+[![github stats](https://github-readme-stats.vercel.app/api?username=bangdomathid&hide=prs&count_private=true&show_icons=true&theme=vue)](https://github.com/bangdomathidid/)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domathId&layout=compact&theme=vue)](https://github.com/domathid/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bangdomathid&layout=compact&theme=vue)](https://github.com/bangdomathid/)
 <br />
 <br />
 <a href="https://www.facebook.com/bangdomath.id">
